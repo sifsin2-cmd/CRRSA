@@ -1,0 +1,6 @@
+{
+  "name": "CRRSA AI Chatbot",
+  "description": "Official AI Chatbot & Service Hub for Civil Registration and Residency Service Agency (CRRSA) with multilingual support, FAQ lookup, service catalog, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
